@@ -11,14 +11,14 @@ type ResponseType = {
  * @param err - Error object
  * @param req - Request object
  * @param res - Response object
- * @param next - Next function
+ * 
  */
 export const errorHandler = (
     err: Error,
     req: Request,
     res: Response,
     next: NextFunction
-) => {
+): void => {
     const response: ResponseType = {};
     if (err.message) {
         const logs = {
@@ -37,5 +37,5 @@ export const errorHandler = (
             : 'Something wrong!';
     }
 
-    res.status(422).send(response);
+    res.status(422).json(response);
 }
