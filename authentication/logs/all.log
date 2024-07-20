@@ -1,0 +1,29 @@
+2024-07-20 15:34:19:3419 [36minfo[39m: [36mServer is running on http://localhost:3000[39m
+2024-07-20 15:35:05:355 [36minfo[39m: [36mServer is running on http://localhost:3000[39m
+2024-07-20 15:35:11:3511 [36minfo[39m: [36mServer is running on http://localhost:3000[39m
+2024-07-20 15:35:20:3520 [36minfo[39m: [36mServer is running on http://localhost:3000[39m
+2024-07-20 15:35:28:3528 [36minfo[39m: [36mServer is running on http://localhost:3000[39m
+2024-07-20 15:36:24:3624 [36minfo[39m: [36mServer is running on http://localhost:3000[39m
+2024-07-20 15:36:28:3628 [36minfo[39m: [36mServer is running on http://localhost:3000[39m
+2024-07-20 15:36:41:3641 [36minfo[39m: [36mServer is running on http://localhost:3000[39m
+2024-07-20 15:36:45:3645 [36minfo[39m: [36mServer is running on http://localhost:3000[39m
+2024-07-20 15:37:12:3712 [36minfo[39m: [36mServer is running on http://localhost:3000[39m
+2024-07-20 15:37:50:3750 [36minfo[39m: [36mServer is running on http://localhost:3000[39m
+2024-07-20 15:40:58:4058 [36minfo[39m: [36mServer is running on http://localhost:3000[39m
+2024-07-20 15:41:11:4111 [36minfo[39m: [36mServer is running on http://localhost:3000[39m
+2024-07-20 15:41:22:4122 [36minfo[39m: [36mServer is running on http://localhost:3000[39m
+2024-07-20 15:41:24:4124 [36minfo[39m: [36mServer is running on http://localhost:3000[39m
+2024-07-20 15:41:47:4147 [36minfo[39m: [36mServer is running on http://localhost:3000[39m
+2024-07-20 15:41:59:4159 [35mhttp[39m: [35mPOST /sign-up 500 1978 - 4.075 ms[39m
+[35m[39m
+2024-07-20 15:44:13:4413 [36minfo[39m: [36mServer is running on http://localhost:3000[39m
+2024-07-20 15:44:17:4417 [35mhttp[39m: [35mPOST /sign-up 500 1978 - 3.963 ms[39m
+[35m[39m
+2024-07-20 15:45:33:4533 [36minfo[39m: [36mServer is running on http://localhost:3000[39m
+2024-07-20 15:45:35:4535 [35mhttp[39m: [35mPOST /sign-up 400 103 - 2.216 ms[39m
+[35m[39m
+2024-07-20 15:45:36:4536 [35mhttp[39m: [35mPOST /sign-up 400 103 - 0.417 ms[39m
+[35m[39m
+2024-07-20 15:45:47:4547 [36minfo[39m: [36mServer is running on http://localhost:3000[39m
+2024-07-20 15:46:08:468 [35mhttp[39m: [35mPOST /sign-up 400 103 - 3.182 ms[39m
+[35m[39m
