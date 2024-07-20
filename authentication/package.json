@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "node dist/index.js",
     "start:dev": "nodemon",
     "migrate:make": "knex --knexfile ./src/db/knexfile.ts migrate:make",
     "migrate:latest": "knex --knexfile ./src/db/knexfile.ts migrate:latest",
