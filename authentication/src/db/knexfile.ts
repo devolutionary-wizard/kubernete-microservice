@@ -10,7 +10,7 @@ export const connectionOptions = {
     database: DB_NAME,
 }
 const knexConfig: Knex.Config = {
-    client: 'mysql2',
+    client: 'pg',
     connection: {
         ...connectionOptions,
     },
